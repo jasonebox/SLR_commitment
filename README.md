@@ -1,6 +1,6 @@
 # SLR_commitment
-codebase for study obtaining sea level rise commitment from Greenland land ice
+codebase for Box et al 2020 study obtaining sea level rise commitment from Greenland land ice
 
-languages: IDL, Grass, bash, python 
+workflow.xlsx details what each codes does and indicates which code creates figures provided in the manuscript.
 
-the table at the following link is a top down (first steps followed by next steps) map of the workflow.
+data languages: IDL, Grass, bash, python 
